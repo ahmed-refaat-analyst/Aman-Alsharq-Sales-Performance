@@ -1,7 +1,7 @@
 # 📊 Aman Alsharq Sales Performance 2024 (Jan–Nov)
 
 ![Sales Dashboard](sales.jpeg)  
-![Sales Dashboard 2](sales1.jpeg)  
+![Sales Dashboard 2](Sales1.jpeg)  
 
 ## 🎥 Project Demo
 [Watch the demo video](Sales.mp4)
