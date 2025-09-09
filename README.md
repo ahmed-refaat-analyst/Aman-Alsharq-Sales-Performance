@@ -7,7 +7,7 @@
 [Watch the demo video](Sales.mp4)
 
 ## 📂 Project Overview
-This Excel project provides a comprehensive sales performance report covering the period from **January to November**.  
+This Excel project provides a comprehensive sales performance report covering the period from **January to November** (2024).  
 The analysis was designed to help management close the year with actionable insights and highlight key sales trends. 🔍
 
 ## ✨ Features
